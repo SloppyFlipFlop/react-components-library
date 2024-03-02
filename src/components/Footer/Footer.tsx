@@ -1,6 +1,4 @@
 import React from 'react';
-// import a from 'next/link';
-// import Image from 'next/image';
 
 import { AiOutlineInstagram, AiOutlineLink } from 'react-icons/ai';
 import { FaDiscord, FaGithub, FaLinkedin } from 'react-icons/fa';
